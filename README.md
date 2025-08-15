@@ -1,12 +1,21 @@
-# React + Vite
+# Marketplace App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Marketplace App adalah platform e-commerce berbasis web yang memudahkan pengguna untuk membeli dan menjual berbagai produk. Saat ini fokus pada produk gadget, namun ke depannya akan diperluas menjadi marketplace untuk berbagai kategori.
 
-Currently, two official plugins are available:
+## ✨ Fitur Utama
+- 🛒 **Daftar Produk** – Menampilkan produk lengkap dengan gambar, harga, dan deskripsi.
+- 🔍 **Pencarian & Filter** – Memudahkan pengguna mencari produk sesuai kebutuhan.
+- 📱 **Responsive Design** – Tampilan optimal di desktop maupun mobile.
+- 💬 **Deskripsi Detail Produk** – Menampilkan informasi yang lengkap untuk setiap produk.
+- 🚀 **(Coming Soon)** – Sistem login, keranjang belanja, dan checkout.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Teknologi yang Digunakan
+- **Frontend**: React + Tailwind CSS
+- **Backend**: (Planned) Node.js / Express.js
+- **Database**: (Planned) MySQL / MongoDB
+- **Version Control**: Git & GitHub
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Instalasi
+1. Clone repository:
+   ```bash
+   git clone https://github.com/username/marketplace.git
